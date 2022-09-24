@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Lyes I am 23yo and I am a hobbiest programmer... 
-I write code that serves my purposes and desire... 
-I share some of my work on this repo.
+My name is Lyes I am 23yo and I am a hobbiest programmer... <br>
+I write code that serves my purposes and desire... <br>
+I share some of my work on this repo.<br>
 
 Reach me at:
-  - Discord: ***\#girei#9430***
+  - Discord: ***girei#9430***
   - Email: <lyes.berkane92@gmail.com>
   
  

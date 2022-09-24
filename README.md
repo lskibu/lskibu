@@ -19,7 +19,7 @@ I am a hobbiest programmer... <br>
 I write code that serves my purposes and desire... <br>
 I share some of my work on this repo.<br>
 
-Reach me at:
+Contact:
   - Discord: ***lyes#5937***
   - Email: <lyes.berkane92@gmail.com>
   

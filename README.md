@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a hobbiest programmer... <br>
+I am a hobbyist programmer... <br>
 I write code that serves my purposes and desire... <br>
 I share some of my work on this repo.<br>
 

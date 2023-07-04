@@ -1,4 +1,4 @@
-### Lyes , 23! 👋
+### Lyes , 24! 👋
 
 <!--
 **lskibu/lskibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a hobbyist programmer... <br>
-I write code that serves my purposes and desire... <br>
-I share some of my work on this repo.<br>
+Computer programmer... <br>
+Going to leave this field soon. 
+Spending much time behind computer screen is not for me,
+I will try different things...
 
 Contact:
   - Discord: ***lyes#5937***
